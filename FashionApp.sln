@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FashionApp.Entities", "FashionApp.Entities\FashionApp.Entities.csproj", "{241D9F96-A5C7-4934-AF20-8CA60FC0410D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FashionApp.Shared", "FashionApp.Shared\FashionApp.Shared.csproj", "{128D128C-9426-4EA1-87BD-B3DF0413D08C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FashionApp.Data", "FashionApp.Data\FashionApp.Data.csproj", "{AE106C10-829F-4662-AB6A-0ADA6802BA44}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FashionApp.Services", "FashionApp.Services\FashionApp.Services.csproj", "{D8992DA9-89E5-419C-9535-147C980AB21C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FashionApp.Api", "FashionApp.Api\FashionApp.Api.csproj", "{F979B6F9-2D9F-4269-9C55-A3DA741C72C5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FashionApp.IdentityServer", "FashionApp.IdentityServer\FashionApp.IdentityServer.csproj", "{23EED3C4-32D7-4BCF-859E-08EDB8E8003F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241D9F96-A5C7-4934-AF20-8CA60FC0410D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241D9F96-A5C7-4934-AF20-8CA60FC0410D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241D9F96-A5C7-4934-AF20-8CA60FC0410D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241D9F96-A5C7-4934-AF20-8CA60FC0410D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{128D128C-9426-4EA1-87BD-B3DF0413D08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128D128C-9426-4EA1-87BD-B3DF0413D08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128D128C-9426-4EA1-87BD-B3DF0413D08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128D128C-9426-4EA1-87BD-B3DF0413D08C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE106C10-829F-4662-AB6A-0ADA6802BA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE106C10-829F-4662-AB6A-0ADA6802BA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE106C10-829F-4662-AB6A-0ADA6802BA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE106C10-829F-4662-AB6A-0ADA6802BA44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8992DA9-89E5-419C-9535-147C980AB21C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8992DA9-89E5-419C-9535-147C980AB21C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8992DA9-89E5-419C-9535-147C980AB21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8992DA9-89E5-419C-9535-147C980AB21C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F979B6F9-2D9F-4269-9C55-A3DA741C72C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F979B6F9-2D9F-4269-9C55-A3DA741C72C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F979B6F9-2D9F-4269-9C55-A3DA741C72C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F979B6F9-2D9F-4269-9C55-A3DA741C72C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23EED3C4-32D7-4BCF-859E-08EDB8E8003F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23EED3C4-32D7-4BCF-859E-08EDB8E8003F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23EED3C4-32D7-4BCF-859E-08EDB8E8003F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23EED3C4-32D7-4BCF-859E-08EDB8E8003F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A634868B-7C03-4905-B37E-4B7032B21CB7}
+	EndGlobalSection
+EndGlobal
