@@ -25,8 +25,4 @@
 | /api/blocked/Add | Post | {UserId-BlockedId} | Kişi engellenen listesine ekler |
 | /api/blocked/Update | Update | {UserId-BlockedId-Id} | Engelleme  durumunu günceller. |
 
-Kullanılan Teknolojiler
-identity server
-unitofwork
-generic repository pattern
-auto mapper
+
